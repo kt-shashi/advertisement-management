@@ -2,9 +2,19 @@
 
 > Advertisement Management using C++
 
-## Types covered:
+## Packages covered:
 
 - ### Social Media
      - Instagram
      - Facebook
      - Youtube
+
+- ### TV Ad
+     - VideoAd
+     - LBand
+     - Scroller
+
+- ### Poster/Banner
+     - BillBoard
+     - Poster
+
