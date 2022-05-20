@@ -11,12 +11,11 @@ protected:
     string tagLine;
     double price;
     int quantity;
-    int hour;
 
 public:
     Product()
     {
-        price = 0, quantity = 0, hour = 0;
+        price = 0, quantity = 0;
     }
     virtual void setCompanyName(string s) = 0;
     virtual void setTagLine(string s) = 0;
